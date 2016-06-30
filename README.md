@@ -6,14 +6,14 @@ maven：
     <dependency>
         <groupId>com.zqx.chart</groupId>
         <artifactId>chart</artifactId>
-        <version>0.1</version>
+        <version>0.2</version>
         <type>pom</type>
     </dependency>
 
 
 gradle：
 -------
-    compile 'com.zqx.chart:chart:0.1'
+    compile 'com.zqx.chart:chart:0.2'
 
 使用方法：
 ==========
