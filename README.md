@@ -1,5 +1,5 @@
 #ZqxChart
-![折线图,柱状图](https://github.com/z4321548/zqxchart/blob/master/chart1.gif)
+![折线图,柱状图](https://github.com/z4321548/zqxchart/blob/master/chart.gif "折线图,柱状图")
 ![饼状图](https://github.com/z4321548/zqxchart/blob/master/piechart.gif "饼状图")
 maven：
 ------
